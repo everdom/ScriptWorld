@@ -2,6 +2,7 @@
 usefull scripts utilities
 
 ## color.sh
+```
 Usage: color [options]
 highlight text using specific colors
 
@@ -14,3 +15,5 @@ Flags:
 
 Examples:
 echo hello world|color.sh "hello"
+
+```
